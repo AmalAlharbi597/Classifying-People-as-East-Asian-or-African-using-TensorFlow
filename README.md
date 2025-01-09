@@ -23,13 +23,13 @@ Example :
 ![image](https://github.com/user-attachments/assets/b63961b6-a6ce-48ec-ab1d-8ed3f0570f91)
 
 
-Project Structure
+Project Structure :
 model.savedmodel: Pre-trained TensorFlow model.
 predict.py: Python script for loading the model and making predictions.
 test_images/: Example images for testing the model.
 
 
-Future Enhancements
+Future Enhancements :
 Expand the dataset to include more ethnic groups.
 Increase accuracy with additional training and fine-tuning.
 Integrate a simple web interface for user-friendly interaction.
