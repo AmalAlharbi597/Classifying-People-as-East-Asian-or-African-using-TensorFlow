@@ -12,5 +12,6 @@ The model was trained using Teachable Machine with a diverse and balanced datase
 - Processes images efficiently with TensorFlow.
 
 Example :
-![image](https://github.com/user-attachments/assets/ad28b376-078d-43a1-8164-5ea431559f37)
+![image](https://github.com/user-attachments/assets/b63961b6-a6ce-48ec-ab1d-8ed3f0570f91)
+
 
